@@ -15,20 +15,6 @@ int main()
 
     }
     cout << "\nsum = "<<s;
-
-
-
-
-
-
-
 return 0 ;
 
 }
-
-
-
-
-
-
-
